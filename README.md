@@ -1,9 +1,8 @@
 # Promp
-Trabajos de Prompt-Coderhouse
+Trabajo Final de Prompt-Coderhouse
 
+Agregue un Json para consumir, y mejore las funciones para que analice de mejor forma los comentarios que tenga la App. Si bien algunas pequeñas cosas, solicite ayuda a IA, ya que no podia continuar con lo que queria hacer y se me complicaba el trabajo.
 
-
-PreEntrega 1
 
 Mariano Abel Puppo
 
