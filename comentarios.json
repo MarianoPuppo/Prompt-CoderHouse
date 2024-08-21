@@ -1,0 +1,52 @@
+[
+    {
+        "profesional": "Juan Pérez - Electricista",
+        "cliente": "Carlos Sánchez",
+        "comentario": "Excelente trabajo, rápido y eficiente. Sin duda lo volveré a contratar."
+    },
+    {
+        "profesional": "Ana López - Plomera",
+        "cliente": "María Fernández",
+        "comentario": "El servicio fue bueno, pero podría mejorar la puntualidad."
+    },
+    {
+        "profesional": "Pedro Rodríguez - Pintor",
+        "cliente": "Luis Gómez",
+        "comentario": "El trabajo fue aceptable, pero dejó algo de desorden."
+    },
+    {
+        "profesional": "Laura Martínez - Jardinera",
+        "cliente": "Sofía Ramírez",
+        "comentario": "El jardín quedó hermoso, pero tardó más de lo esperado."
+    },
+    {
+        "profesional": "Carlos López - Carpintero",
+        "cliente": "José Torres",
+        "comentario": "Trabajo impecable y muy profesional. Totalmente recomendado."
+    },
+    {
+        "profesional": "Lucía Gómez - Albañil",
+        "cliente": "Manuel Cruz",
+        "comentario": "El trabajo estuvo bien, aunque podría haber sido más limpio."
+    },
+    {
+        "profesional": "Marta Sánchez - Electricista",
+        "cliente": "Gloria Núñez",
+        "comentario": "Excelente servicio, solucionó el problema rápidamente."
+    },
+    {
+        "profesional": "Raúl Fernández - Plomero",
+        "cliente": "Luis Torres",
+        "comentario": "El trabajo se completó, pero hubo un par de fugas después."
+    },
+    {
+        "profesional": "Elena García - Pintora",
+        "cliente": "Camila Ortega",
+        "comentario": "La pintura quedó perfecta, aunque hubo algunos retrasos."
+    },
+    {
+        "profesional": "Miguel Ramírez - Carpintero",
+        "cliente": "Juan Rojas",
+        "comentario": "Trabajo excelente, pero los materiales fueron más caros de lo esperado."
+    }
+]
